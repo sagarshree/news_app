@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "638841014337",
+    "firebase_url": "https://onlinekhabar-a4e48.firebaseio.com",
+    "project_id": "onlinekhabar-a4e48",
+    "storage_bucket": "onlinekhabar-a4e48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638841014337:android:5da92278c712a4d3b55ec0",
+        "android_client_info": {
+          "package_name": "com.example.online_khabar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638841014337-c1dlkeb2826ijieosv2aqp6h6si5k3cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.online_khabar",
+            "certificate_hash": "d4966a23937aeead59cd67a3b8588353eb20e297"
+          }
+        },
+        {
+          "client_id": "638841014337-cjkm4hsl94p4i2dfkgf4sfmnuq2ffvlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMsCRhdHfSStf0MOLSn9V5M-EifXGna20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638841014337-cjkm4hsl94p4i2dfkgf4sfmnuq2ffvlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

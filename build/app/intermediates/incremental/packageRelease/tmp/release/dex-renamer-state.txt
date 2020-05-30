@@ -1,0 +1,4 @@
+#Fri May 29 17:57:25 NPT 2020
+base.0=/home/shree/Flutter/Projects/online_khabar/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
